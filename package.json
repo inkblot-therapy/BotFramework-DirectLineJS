@@ -1,6 +1,6 @@
 {
   "name": "@inkblot-therapy/botframework-directlinejs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Client library for the Microsoft Bot Framework Direct Line 3.0 protocol",
   "files": [
     "dist/**/*",
@@ -26,6 +26,7 @@
   },
   "release-it": {
     "git": {
+      "requireCleanWorkingDir": false,
       "commitMessage": "chore: release ${version}",
       "tagName": "v${version}"
     },
@@ -46,9 +47,6 @@
   },
   "author": "Kenny Chan <kenny.chan@greenshieldlabs.cs> (https://github.com/kennychh)",
   "license": "MIT",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "dependencies": {
     "@babel/runtime": "7.14.8",
     "@release-it/conventional-changelog": "^10.0.0",
@@ -104,23 +102,5 @@
     "webpack-cli": "^4.7.2",
     "webpack-stats-plugin": "^1.0.3",
     "ws": "^8.13.0"
-  },
-  "release-it": {
-    "git": {
-      "requireCleanWorkingDir": false,
-      "commitMessage": "chore: release ${version}",
-      "tagName": "v${version}"
-    },
-    "npm": {
-      "publish": true
-    },
-    "github": {
-      "release": true
-    },
-    "plugins": {
-      "@release-it/conventional-changelog": {
-        "preset": "angular"
-      }
-    }
   }
 }

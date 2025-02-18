@@ -1,20 +1,8 @@
 # Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
-and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
-
-<!-- CHANGELOG line template
-### Added/Changed/Removed
-- Added something, by [@johndoe](https://github.com/johndoe), in PR [#XXX](https://github.com/microsoft/BotFramework-DirectLineJS/pull/XXX)
-### Changed (for dependency bumps)
-- `core`: Bumps to [`abc@1.2.3`](https://npmjs.com/package/abc/), in PR [#XXX](https://github.com/microsoft/BotFramework-DirectLineJS/pull/XXX)
-### Fixed
-- Fix [#XXX](https://github.com/microsoft/BotFramework-DirectLineJS/issues/XXX). Patched something, by [@johndoe](https://github.com/johndoe) in PR [#XXX](https://github.com/microsoft/BotFramework-DirectLineJS/pull/XXX)
--->
-
-## [Unreleased]
+### [0.0.3](https://github.com/inkblot-therapy/BotFramework-DirectLineJS/compare/v0.0.2...v0.0.3) (2025-02-18)
 
 ## [0.15.5] - 2023-10-10
 
