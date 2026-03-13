@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/inkblot-therapy/BotFramework-DirectLineJS/compare/v0.0.4...v0.0.5) (2026-03-13)
+
+
+### Bug Fixes
+
+* resolve all npm audit vulnerabilities ([afef219](https://github.com/inkblot-therapy/BotFramework-DirectLineJS/commit/afef21924098d82c4e8b8081b449c4e0941b5605))
+
 ### [0.0.3](https://github.com/inkblot-therapy/BotFramework-DirectLineJS/compare/v0.0.2...v0.0.3) (2025-02-18)
 
 ## [0.15.6] - 2025-04-17
