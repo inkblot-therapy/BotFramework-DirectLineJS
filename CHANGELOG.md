@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.0.3](https://github.com/inkblot-therapy/BotFramework-DirectLineJS/compare/v0.0.2...v0.0.3) (2025-02-18)
 
+## [0.15.6] - 2025-04-17
+
+### Changed
+
+- Bumped dependencies, in PR [#426](https://github.com/microsoft/BotFramework-DirectLineJS/pull/426) and [#438](https://github.com/microsoft/BotFramework-DirectLineJS/pull/438)
+   - Production dependencies
+      - [`botframework-streaming@4.23.0`](https://npmjs.com/package/botframework-streaming)
+      - [`@babel/runtime@7.26.10`](https://npmjs.com/package/@babel/runtime)
+
 ## [0.15.5] - 2023-10-10
 
 ### Added
